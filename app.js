@@ -22,5 +22,5 @@ app.get('/', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Server running at http://localhost:${port}`);
+    console.log(`Grab IP Server running at http://localhost:${port}`);
 });
